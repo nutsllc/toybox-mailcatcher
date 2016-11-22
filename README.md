@@ -1,6 +1,6 @@
 # Toybox Mailcatcher
 
-This is the smallest docker image (162 MB) for [MailCatcher](https://mailcatcher.me/) based on [Alpine Linux](https://alpinelinux.org/)
+This is a small docker image (162 MB) for [MailCatcher](https://mailcatcher.me/) based on [Alpine Linux](https://alpinelinux.org/)
 
 ## What is the mailcatcher ?
 
